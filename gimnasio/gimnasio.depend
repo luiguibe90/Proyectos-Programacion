@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1533703340 source:c:\users\luis benitez\desktop\programa\gimnasio\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+
