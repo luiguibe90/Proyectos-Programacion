@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1486524817 source:c:\users\fabian benitez\desktop\u\proyecto progra\programa resumen\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
+1486713696 source:c:\users\fabian benitez\desktop\u\programacion\programa resumen\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1486713696 source:e:\espe\2\programacion i\progra margarita\programa resumen\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1533531440 source:c:\users\luis benitez\desktop\programa resumen\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
